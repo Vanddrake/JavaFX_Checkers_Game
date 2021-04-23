@@ -8,9 +8,9 @@ import java.util.Random;
 /**
  * A Checker Board class that creates a randomized array list of Checkers and includes draw methods for the
  * game board.
- * Mohawk College, COMP 10062 - Programming in Java. August 16, 2020.
+ * August 16, 2020.
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 public class CheckerBoard {
 
