@@ -4,9 +4,9 @@ import javafx.scene.paint.Color;
 
 /**
  * A Red Checker class that draws a red Checker and promotes it to a king if it's in the top most position.
- * Mohawk College, COMP 10062 - Programming in Java. August 16, 2020.
+ * August 16, 2020.
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 public class RedChecker extends Checker{
 
