@@ -17,9 +17,9 @@ import static java.lang.Integer.parseInt;
 /**
  * A program that allows users play an in-progress game of Checkers, with the included ability to
  * add and remove checkers from the board.
- * Mohawk College, COMP 10062 - Programming in Java. August 16, 2020.
+ * August 16, 2020.
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 public class InProgressCheckersGameSim extends Application {
 
