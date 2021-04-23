@@ -3,9 +3,9 @@ import javafx.scene.paint.Color;
 
 /**
  * An abstract Checker class that draws a Checker and holds common values for use in subclasses.
- * Mohawk College, COMP 10062 - Programming in Java. August 16, 2020.
+ * August 16, 2020.
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 public abstract class Checker {
 
