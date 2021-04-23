@@ -3,9 +3,9 @@ import javafx.scene.paint.Color;
 
 /**
  * A Blue Checker class that draws a blue Checker and promotes it to a king if it's in the bottom most position.
- * Mohawk College, COMP 10062 - Programming in Java. August 16, 2020.
+ * August 16, 2020.
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 public class BlueChecker extends Checker{
 
