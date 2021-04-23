@@ -4,9 +4,9 @@ import java.util.ArrayList;
  * A class used by the CheckerBoard class to locate legal positions that a Checker object
  * is able to move to.
  *
- * Mohawk College, COMP 10062 - Programming in Java. August 23, 2020.
+ * August 23, 2020.
  *
- * @author Robert Zaranek (001161598)
+ * @author Robert Zaranek
  */
 public class LegalMoveCheck {
 
